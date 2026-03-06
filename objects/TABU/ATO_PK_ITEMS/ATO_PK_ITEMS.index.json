@@ -1,0 +1,36 @@
+[
+ {
+  "table":"ATO_PK_ITEMS",
+  "index":
+  [
+   {
+    "columns":
+    [
+     {
+      "key":"ITEM_TYPE",
+      "value":"CFDF"
+     },
+     {
+      "key":"ITEM_ID",
+      "value":"ZZ1_Z71"
+     }
+    ],
+    "hash":"lXbTc3a6k3Y8cjvCXxXlA1gS5YI="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"ITEM_TYPE",
+      "value":"CFDF"
+     },
+     {
+      "key":"ITEM_ID",
+      "value":"ZZ1_Z72"
+     }
+    ],
+    "hash":"sXAra9GWQipyBlF2hGrqKywt9hY="
+   }
+  ]
+ }
+]
